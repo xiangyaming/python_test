@@ -1,0 +1,84 @@
+{
+  "uid" : "1154140832a1eaee",
+  "name" : "test_SPGL_SPGL_02",
+  "fullName" : "SCGLHT.Test_jiou#test_SPGL_SPGL_02",
+  "historyId" : "26e7f12989a9a48420b336ba5ebc01f5",
+  "time" : {
+    "start" : 1595473847635,
+    "stop" : 1595473847635,
+    "duration" : 0
+  },
+  "description" : "商品审核",
+  "descriptionHtml" : "<p>商品审核</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1595473794030,
+      "stop" : 1595473799136,
+      "duration" : 5106
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1595473862769,
+      "stop" : 1595473862769,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "SCGLHT"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_jiou"
+  }, {
+    "name" : "host",
+    "value" : "zhao-PC"
+  }, {
+    "name" : "thread",
+    "value" : "9128-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "SCGLHT"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1154140832a1eaee.json",
+  "parameterValues" : [ ]
+}

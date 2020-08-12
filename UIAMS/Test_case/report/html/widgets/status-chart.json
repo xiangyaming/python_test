@@ -1,0 +1,41 @@
+[ {
+  "uid" : "16799a5453752a34",
+  "name" : "test_SPGL_SPGL_01",
+  "time" : {
+    "start" : 1595473799141,
+    "stop" : 1595473847633,
+    "duration" : 48492
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27a3082f8935ac5",
+  "name" : "test_SCGL",
+  "time" : {
+    "start" : 1595473799138,
+    "stop" : 1595473799138,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "713c24eb448fc5c0",
+  "name" : "test_SPGL_SPGL_03",
+  "time" : {
+    "start" : 1595473847643,
+    "stop" : 1595473862769,
+    "duration" : 15126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1154140832a1eaee",
+  "name" : "test_SPGL_SPGL_02",
+  "time" : {
+    "start" : 1595473847635,
+    "stop" : 1595473847635,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

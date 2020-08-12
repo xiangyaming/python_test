@@ -1,0 +1,57 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "SCGLHT",
+    "children" : [ {
+      "name" : "test_SCGL",
+      "uid" : "27a3082f8935ac5",
+      "parentUid" : "970b10c85eb4605362be065bee2d30f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595473799138,
+        "stop" : 1595473799138,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_SPGL_SPGL_01",
+      "uid" : "16799a5453752a34",
+      "parentUid" : "970b10c85eb4605362be065bee2d30f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595473799141,
+        "stop" : 1595473847633,
+        "duration" : 48492
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_SPGL_SPGL_02",
+      "uid" : "1154140832a1eaee",
+      "parentUid" : "970b10c85eb4605362be065bee2d30f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595473847635,
+        "stop" : 1595473847635,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_SPGL_SPGL_03",
+      "uid" : "713c24eb448fc5c0",
+      "parentUid" : "970b10c85eb4605362be065bee2d30f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595473847643,
+        "stop" : 1595473862769,
+        "duration" : 15126
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "970b10c85eb4605362be065bee2d30f8"
+  } ]
+}
